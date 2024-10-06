@@ -149,11 +149,9 @@ class Program
             team.AddWorker(worker);
         }
 
-        // Виводимо інформацію про команду
         Console.WriteLine("\nIнформацiя про команду:");
         team.ShowTeamInfo();
 
-        // Детальна інформація про команду
         Console.WriteLine("\nДетальна iнформація про команду:");
         team.ShowDetailedInfo();
 
