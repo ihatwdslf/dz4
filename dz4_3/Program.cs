@@ -67,7 +67,7 @@ class Program
             if (!int.TryParse(input, out choice) || choice < 1 || choice > 5)
             {
                 Console.WriteLine("Некоректне значення. Будь ласка, введіть число від 1 до 5.");
-                continue; // Повернутися на початок циклу
+                continue;
             }
 
             if (choice == 5)
