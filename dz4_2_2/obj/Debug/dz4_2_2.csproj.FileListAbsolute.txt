@@ -1,0 +1,7 @@
+C:\Users\maria\source\repos\dz4_2_2\bin\Debug\dz4_2_2.exe.config
+C:\Users\maria\source\repos\dz4_2_2\bin\Debug\dz4_2_2.exe
+C:\Users\maria\source\repos\dz4_2_2\bin\Debug\dz4_2_2.pdb
+C:\Users\maria\source\repos\dz4_2_2\obj\Debug\dz4_2_2.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\dz4_2_2\obj\Debug\dz4_2_2.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\dz4_2_2\obj\Debug\dz4_2_2.exe
+C:\Users\maria\source\repos\dz4_2_2\obj\Debug\dz4_2_2.pdb
